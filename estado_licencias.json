@@ -1,6 +1,6 @@
 {
  "v": 1,
- "emitido": "2026-10-29T13:16:28Z",
+ "emitido": "2026-10-29T13:25:48Z",
  "licencias": {
   "L-2026-0002": {
    "pagado_hasta": "2026-11-28",
@@ -8,5 +8,5 @@
    "motivo": "Servicio suspendido por falta de pago."
   }
  },
- "firma": "4a67f10ebb88920ec18466891cbb6796c3c0993fd30d71f4de6058c088c5c918fd741fbf5d310f0d38ebe09580690bd6e014d34ed68ab19812af90666a2b320b"
+ "firma": "92ffbf1862a427e3ed7fa62b3f096d6068a9ee109bc0c4f5d3de23530193ee490af25387fc067ae394baee27bb81d17e4263f1143e5434d0a475fcf6ac92a205"
 }
