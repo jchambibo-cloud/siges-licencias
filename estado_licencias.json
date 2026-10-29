@@ -1,0 +1,12 @@
+{
+ "v": 1,
+ "emitido": "2026-10-29T13:16:28Z",
+ "licencias": {
+  "L-2026-0002": {
+   "pagado_hasta": "2026-11-28",
+   "estado": "suspendida",
+   "motivo": "Servicio suspendido por falta de pago."
+  }
+ },
+ "firma": "4a67f10ebb88920ec18466891cbb6796c3c0993fd30d71f4de6058c088c5c918fd741fbf5d310f0d38ebe09580690bd6e014d34ed68ab19812af90666a2b320b"
+}
